@@ -20,7 +20,7 @@ contract HarNFT is ERC721, Ownable {
     _tokenURIs[tokenId] = _tokenURI;
   }
 
-  //grabs the tokenURI for the tokenid. effectively grabbing the metadata.
+  //Gets the tokenURI for the tokenid. effectively grabbing the metadata.
   function tokenURI(uint256 tokenId) public view virtual override returns (string memory)
   {
     require(_exists(tokenId), "The MetaData for this tokenId does not exist in this contract");

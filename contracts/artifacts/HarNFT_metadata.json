@@ -582,11 +582,11 @@
 			]
 		},
 		"contracts/harNFT.sol": {
-			"keccak256": "0x9689959f21f6346b542ba510c2ead9636a26bc13f931231ba85a6ce12a832317",
+			"keccak256": "0x3b79307c08d05de45047a18e466b5fd53fe76e5137c7b1fa46311376213b6576",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6351512aa286950c4f3118c40ede0fe5181d84051d96d6ffb2d48dea224a5dea",
-				"dweb:/ipfs/QmTQJXd2df6t5uUQxt6aJuV1Y9uJfuewWtwhhufCdK2Xb6"
+				"bzz-raw://7dfab84deb4b84fb6a28d5dde474144f9ae3c2b2d26dc33768c6b2488c3da0b5",
+				"dweb:/ipfs/QmeinXWR52bsJ1fGwLXVXDq58b8vMG7QYEdUu3RRzg8fie"
 			]
 		}
 	},
